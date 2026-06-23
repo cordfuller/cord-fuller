@@ -1,4 +1,4 @@
-# cord-fuller
+# Cord-Fuller
 About me
 
 I'm an IT professional on the path to becoming a Network Engineer. By day I work as a Computer Network Technician, optimizing infrastructure and deploying new features to improve production operations. By night (and weekends), I'm deep in study and hands-on labs pushing my skills further.
